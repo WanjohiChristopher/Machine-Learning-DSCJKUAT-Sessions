@@ -1,1 +1,1 @@
-# DATA SCIENCE Machine-Learning-DSCJKUAT PROJECT SESSIONS
+# Data Science Machine-Learning-DSCJKUAT PROJECT SESSIONS
